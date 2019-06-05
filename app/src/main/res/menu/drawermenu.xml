@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bikelist"
+        android:icon="@drawable/ic_sharp_list_alt_24px"
+        android:title="Bike List" />
+    <item
+        android:id="@+id/balance"
+        android:icon="@drawable/ic_baseline_attach_money_24px"
+        android:title="Balance" />
+    <item
+        android:id="@+id/report"
+        android:icon="@drawable/ic_baseline_poll_24px"
+        android:title="Report" />
+    <item
+        android:id="@+id/logout"
+        android:icon="@drawable/ic_sharp_exit_to_app_24px"
+        android:title="Logout" />
+</menu>
